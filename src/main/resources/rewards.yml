@@ -1,0 +1,29 @@
+# Награды магазина IHalloween (редактируются через админ-меню или вручную)
+# slot: 1..45, cost — цена в конфетах, icon — Material, commands — список команд консоли
+# Пример: титул(ed) через LuckPerms — "lp user %player% meta setprefix 200 &6Тыквенный король"
+
+rewards:
+  slot-1:
+    cost: 10
+    icon: PUMPKIN_PIE
+    name: "Тыквенный пирог"
+    commands:
+      - "give %player% pumpkin_pie 3"
+  slot-2:
+    cost: 25
+    icon: GOLDEN_APPLE
+    name: "Золотое яблоко"
+    commands:
+      - "give %player% golden_apple 1"
+  slot-3:
+    cost: 50
+    icon: NETHER_STAR
+    name: "Титул: Тыквенный король"
+    commands:
+      - "lp user %player% meta setprefix 200 &6🎃 &cТыквенный &6Король &r| "
+  slot-4:
+    cost: 100
+    icon: ELYTRA
+    name: "Элитры странника"
+    commands:
+      - "give %player% elytra 1"

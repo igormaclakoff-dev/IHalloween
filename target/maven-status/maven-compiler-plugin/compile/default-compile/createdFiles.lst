@@ -1,0 +1,13 @@
+com\auracode\ihalloween\CandyService.class
+com\auracode\ihalloween\util\RewardStorage.class
+com\auracode\ihalloween\gui\ShopMenu.class
+com\auracode\ihalloween\model\Reward.class
+com\auracode\ihalloween\PumpkinManager.class
+com\auracode\ihalloween\IHalloweenPlugin.class
+com\auracode\ihalloween\BossManager.class
+com\auracode\ihalloween\RewardService.class
+com\auracode\ihalloween\listener\HalloweenListener.class
+com\auracode\ihalloween\command\HalloweenCommand.class
+com\auracode\ihalloween\HalloweenConfig.class
+com\auracode\ihalloween\MessageUtil.class
+com\auracode\ihalloween\gui\AdminMenu.class
